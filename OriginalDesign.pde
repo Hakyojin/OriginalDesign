@@ -37,4 +37,3 @@ void draw()
   ellipse(75,88,4,4);
   ellipse(125,88,4,4);//pupils
 }
-
